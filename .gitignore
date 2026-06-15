@@ -1,0 +1,15 @@
+# User data
+accounts.json
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+__pycache__/
+
+# Dev tools
+capture_pj.py
+captured_pj_api.json
